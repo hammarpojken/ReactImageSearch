@@ -18,19 +18,11 @@ class App extends React.Component {
     });
   };
 
-  renderImages() {
-    const a = this.state.images;
-    const b = [];
-    for (let i = 0; i < a.length; i++) {
-      b[i] = <ImageDisplayer key={i} imgUrl={a[i].urls.small} />;
-    }
-    return b;
-  }
   render() {
     return (
       <div className="ui container" style={{ marginTop: "10px" }}>
         <SearchBar onSubmit={this.onSearchSubmit} />
-        <div>{this.renderImages()}</div>
+        <ImageDisplayer images={this.state.images} />
       </div>
     );
   }

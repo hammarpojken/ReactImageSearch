@@ -1,11 +1,11 @@
 import React from "react";
 
 const ImageDisplayer = props => {
-  return (
-    <div>
-      <img src={props.imgUrl} alt="photoOfAmazingTHings" />
-    </div>
-  );
+  const a = props.images.map((image, i) => {
+    return <img key={i} alt={image.description} src={image.urls.small} />;
+  });
+
+  return <div>{a}</div>;
 };
 
 export default ImageDisplayer;

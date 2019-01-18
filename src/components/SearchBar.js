@@ -17,7 +17,6 @@ export default class SearchBar extends Component {
   };
 
   render() {
-    console.log(this.props);
     return (
       <div className=" ui segment">
         <form className="ui form" onSubmit={this.onFormSubmit}>
