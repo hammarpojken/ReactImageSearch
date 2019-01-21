@@ -17,6 +17,14 @@ class App extends React.Component {
       images: response.data.results
     });
   };
+  async componentDidMount() {
+    const response = await unsplash.get("/search/photos", {
+      params: { query: "cars" }
+    });
+    this.setState({
+      images: response.data.results
+    });
+  }
 
   render() {
     return (
