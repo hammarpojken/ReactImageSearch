@@ -1,13 +1,13 @@
 {
-  "main.css": "/hammarpojken/ReactImageSearch/static/css/main.f30346d4.chunk.css",
-  "main.js": "/hammarpojken/ReactImageSearch/static/js/main.b0ec2b8c.chunk.js",
-  "main.js.map": "/hammarpojken/ReactImageSearch/static/js/main.b0ec2b8c.chunk.js.map",
-  "static/js/1.90c3f81d.chunk.js": "/hammarpojken/ReactImageSearch/static/js/1.90c3f81d.chunk.js",
-  "static/js/1.90c3f81d.chunk.js.map": "/hammarpojken/ReactImageSearch/static/js/1.90c3f81d.chunk.js.map",
-  "runtime~main.js": "/hammarpojken/ReactImageSearch/static/js/runtime~main.b91bad65.js",
-  "runtime~main.js.map": "/hammarpojken/ReactImageSearch/static/js/runtime~main.b91bad65.js.map",
-  "static/css/main.f30346d4.chunk.css.map": "/hammarpojken/ReactImageSearch/static/css/main.f30346d4.chunk.css.map",
-  "index.html": "/hammarpojken/ReactImageSearch/index.html",
-  "precache-manifest.62c0fb4c3195700440f890b7af034d8a.js": "/hammarpojken/ReactImageSearch/precache-manifest.62c0fb4c3195700440f890b7af034d8a.js",
-  "service-worker.js": "/hammarpojken/ReactImageSearch/service-worker.js"
+  "main.css": "/ReactImageSearch/static/css/main.f30346d4.chunk.css",
+  "main.js": "/ReactImageSearch/static/js/main.b0ec2b8c.chunk.js",
+  "main.js.map": "/ReactImageSearch/static/js/main.b0ec2b8c.chunk.js.map",
+  "static/js/1.90c3f81d.chunk.js": "/ReactImageSearch/static/js/1.90c3f81d.chunk.js",
+  "static/js/1.90c3f81d.chunk.js.map": "/ReactImageSearch/static/js/1.90c3f81d.chunk.js.map",
+  "runtime~main.js": "/ReactImageSearch/static/js/runtime~main.02ea250c.js",
+  "runtime~main.js.map": "/ReactImageSearch/static/js/runtime~main.02ea250c.js.map",
+  "static/css/main.f30346d4.chunk.css.map": "/ReactImageSearch/static/css/main.f30346d4.chunk.css.map",
+  "index.html": "/ReactImageSearch/index.html",
+  "precache-manifest.0f966d1ad9ac77c0fecc680bdb18c10e.js": "/ReactImageSearch/precache-manifest.0f966d1ad9ac77c0fecc680bdb18c10e.js",
+  "service-worker.js": "/ReactImageSearch/service-worker.js"
 }

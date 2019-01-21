@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hammarpojken/ReactImageSearch/precache-manifest.62c0fb4c3195700440f890b7af034d8a.js"
+  "/ReactImageSearch/precache-manifest.0f966d1ad9ac77c0fecc680bdb18c10e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hammarpojken/ReactImageSearch/index.html", {
+workbox.routing.registerNavigationRoute("/ReactImageSearch/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
